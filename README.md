@@ -8,14 +8,14 @@
 
 
 # Детекция:
-![поиск и выделение номера](https://github.com/yliasolom/Car_number_recognition/tree/main/img/detect.png)
-![как оставить только номер](https://github.com/yliasolom/Car_number_recognition/tree/main/img/cut_out.png)
+![поиск и выделение номера](https://github.com/yliasolom/Car_number_recognition/blob/main/img/detect.png)
+![только номер](https://github.com/yliasolom/Car_number_recognition/blob/main/img/cut_out.png)
 
 # Как выровнялись данные:
-![выравнивание](https://github.com/yliasolom/Car_number_recognition/tree/main/img/align.png?raw=true)
+![выравнивание](https://github.com/yliasolom/Car_number_recognition/blob/main/img/align.png)
 
 # Оптическое распознавание символов:
-![распознование символов](https://github.com/yliasolom/Car_number_recognition/tree/main/img/ocr.png)
+![распознование символов](https://github.com/yliasolom/Car_number_recognition/blob/main/img/ocr.png)
 
 # Замечание
 Распознает Российские автомобильные номера такого типа:
