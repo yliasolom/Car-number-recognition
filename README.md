@@ -8,16 +8,16 @@
 
 
 # Детекция:
-![поиск и выделение номера](https://github.com/yliasolom/Car_number_recognition/tree/main/img/detect.png?raw=true)
-![как оставить только номер](https://github.com/yliasolom/Car_number_recognition/tree/main/img/cut_out.png?raw=true)
+![поиск и выделение номера](https://github.com/yliasolom/Car_number_recognition/tree/main/img/detect.png)
+![как оставить только номер](https://github.com/yliasolom/Car_number_recognition/tree/main/img/cut_out.png)
 
 # Как выровнялись данные:
 ![выравнивание](https://github.com/yliasolom/Car_number_recognition/tree/main/img/align.png?raw=true)
 
 # Оптическое распознавание символов:
-![распознование символов](https://github.com/yliasolom/Car_number_recognition/tree/main/img/ocr.png?raw=true)
+![распознование символов](https://github.com/yliasolom/Car_number_recognition/tree/main/img/ocr.png)
 
 # Замечание
 Распознает Российские автомобильные номера такого типа:
 
-![распознование символов](https://github.com/yliasolom/Car_number_recognition/tree/main/img/400px-License_plate_in_Russia_2.svg.png?raw=true)
+![распознование символов](https://github.com/yliasolom/Car_number_recognition/tree/main/img/400px-License_plate_in_Russia_2.svg.png)
