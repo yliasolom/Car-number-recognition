@@ -20,4 +20,4 @@
 # Замечание
 Распознает Российские автомобильные номера такого типа:
 
-![распознование символов](https://github.com/yliasolom/Car_number_recognition/tree/main/img/400px-License_plate_in_Russia_2.svg.png)
+![распознование символов](https://github.com/yliasolom/Car_number_recognition/blob/main/img/400px-License_plate_in_Russia_2.svg.png)
