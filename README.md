@@ -1,7 +1,7 @@
 # Распознавание автомобильных номеров
 
 
-/
+
 Скачать файл нейроной сетки для обнаружение номерного знака **ResNet50** [model_resnet.tflite](https://disk.yandex.ru/d/QavLH1pvpRhLOA)  в папку проекта.
 
 Скачать файл нейроной сетки для для распознования символов **CNN-LSTM-CTC** [model1_nomer.tflite](https://drive.google.com/file/d/1NYLpEMM7MzqOr5QtTM6iYhRqZtg1jpTZ/view?usp=share_link) также в папку проекта.
