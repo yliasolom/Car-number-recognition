@@ -7,17 +7,17 @@
 Скачать файл нейроной сетки для для распознования символов **CNN-LSTM-CTC** [model1_nomer.tflite](https://drive.google.com/file/d/1NYLpEMM7MzqOr5QtTM6iYhRqZtg1jpTZ/view?usp=share_link) также в папку проекта.
 
 
-# Детекция:
+### Детекция:
 ![поиск и выделение номера](https://github.com/yliasolom/Car_number_recognition/blob/main/img/detect.png)
 ![только номер](https://github.com/yliasolom/Car_number_recognition/blob/main/img/cut_out.png)
 
-# Как выровнялись данные:
+### Как выровнялись данные:
 ![выравнивание](https://github.com/yliasolom/Car_number_recognition/blob/main/img/align.png)
 
-# Оптическое распознавание символов:
+### Оптическое распознавание символов:
 ![распознование символов](https://github.com/yliasolom/Car_number_recognition/blob/main/img/ocr.png)
 
-# Замечание
+### Замечание
 Распознает Российские автомобильные номера такого типа:
 
 ![распознование символов](https://github.com/yliasolom/Car_number_recognition/blob/main/img/400px-License_plate_in_Russia_2.svg.png)
