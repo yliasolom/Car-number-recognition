@@ -10,4 +10,4 @@ OpenCV actually comes with pre-trained XML files of various Haar Cascades, where
 
 ### About TesseractOCR:
 TesseractOCR is an open-source optical character recognition (OCR) engine. Learn more: 
-![](https://github.com/tesseract-ocr/tesseract 'Tesseract OCR')
+(https://github.com/tesseract-ocr/tesseract)
