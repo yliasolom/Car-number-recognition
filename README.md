@@ -9,5 +9,4 @@ Paul Viola and Michael Jones came up with the object detection technique using H
 OpenCV actually comes with pre-trained XML files of various Haar Cascades, where each XML file contains the feature set. So I used Haar Cascade XML file containing the features for Russian car plates. 
 
 ### About TesseractOCR:
-TesseractOCR is an open-source optical character recognition (OCR) engine. Learn more: 
-(https://github.com/tesseract-ocr/tesseract)
+TesseractOCR is an open-source optical character recognition (OCR) engine. Learn more: https://github.com/tesseract-ocr/tesseract
