@@ -10,8 +10,7 @@
 1. Number plate detection
 2. Image processing
 3. Segmenting the alphanumeric characters from the license plate.
-4. Building and creating the model (I used a Convolutional Neural Network with 3 layers)
+4. Building and training the model (I used a Convolutional Neural Network with 3 layers with *categorical_crossentropy* as loss function, *Adam* as optimization function and *Accuracy* )
+5. Visualizing output
 
-
-
-![image](https://user-images.githubusercontent.com/108471933/223166834-8f24c17e-fe2b-4947-940f-ef21640abd15.png)
+![Model Architecture](https://user-images.githubusercontent.com/108471933/223166834-8f24c17e-fe2b-4947-940f-ef21640abd15.png)
